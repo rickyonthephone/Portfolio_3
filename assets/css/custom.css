@@ -1,0 +1,49 @@
+/*!
+ * Custom CSS for OnePage Bootstrap Theme
+ */
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+#ext_menu-0 .wn-brand__name {
+  font-size: 16px;
+}
+#ext_menu-0.wn-navbar--stuck .wn-navbar__section {
+  background: #475577;
+}
+#ext_menu-0 .wn-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-0 .wn-brand__name a {
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+#content5-9 .wn-header .wn-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-9 .wn-header .wn-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-9 .wn-article {
+  color: #fff;
+}
+#features1-3 P {
+  text-align: center;
+}
+#header3-c H3 {
+  text-align: center;
+}
+#form1-a .wn-header__text SPAN {
+  color: #ffffff;
+}
+#msg-box1-4 .wn-header .wn-header__text {
+  color: #fff;
+}
+#msg-box1-4 .wn-article {
+  color: #fff;
+}
+#footer1-8 P {
+  text-align: center;
+  color: #ffffff;
+}
